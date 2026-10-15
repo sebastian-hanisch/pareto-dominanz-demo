@@ -1,7 +1,6 @@
 # Pareto-Dominanz: was ohne Gewichte übrig bleibt – Streamlit-Demo
 
-<!-- Nach dem Deploy hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-pareto-dominanz-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-pareto-dominanz-demo.streamlit.app/)**
 
 Wurzel der Linie **Mehrkriterien-Ranking** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Die Linie fragt,
 wie man Alternativen, die nach mehreren Kriterien gemessen sind, in eine Rangfolge bringt. Dieses erste Stück zeigt die einzige Ausscheidung, die ganz ohne Gewichte
@@ -142,4 +141,4 @@ Gebaut mit Streamlit, Plotly, NumPy, pandas und fpdf2.
 
 ---
 
-Diese Demo ist Teil des Portfolios von [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning ([Über mich](https://sebastianhanisch.net/ueber-mich.html)). Mehr zu den Demos: [Interaktive Demos](https://sebastianhanisch.net/demos.html).
+Diese Demo ist Teil des Portfolios von [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning ([Über mich](https://sebastianhanisch.net/ueber-mich.html)). Mehr zur Reihe: [Mehrkriterien-Ranking: von Pareto zum Vergleich](https://sebastianhanisch.net/konzepte-mehrkriterien-ranking.html).
